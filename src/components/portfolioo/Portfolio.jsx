@@ -9,7 +9,7 @@ const items= [
   id:1,
   title:"Website using localstorage",
   img:"https://images.pexels.com/photos/6476587/pexels-photo-6476587.jpeg?auto=compress&cs=tinysrgb&w=600",
-  desc:"In this React project, I have built a fully functional website UI that utilizes localStorage for data persistence. This project is a perfect demonstration of React JS capabilities and a great way to strengthen our frontend development skills. By leveraging localStorage, we can create, update, and delete data without relying on a backend, showcasing the power and flexibility of localStorage.",
+  desc:"In this React project, I have built a fully functional website UI that utilizes localStorage for data persistence. This project is a perfect demonstration of React JS capabilities and a great way to strengthen our frontend development skills. With the collaboration of admin@me.com and tanu@gmail.com, we can efficiently create, update, and delete data, ensuring seamless operation and management of the website.",
   link:"https://local-storage-project-lg25ozv4h-vinaykas-projects.vercel.app/",
  },
  
