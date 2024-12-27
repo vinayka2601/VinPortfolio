@@ -62,7 +62,7 @@ const Services = () => {
             <motion.div className="box"whileHover={{background:"lightgray",color:"black"}}>
                 <h2>Resume</h2>
                 <p>Motivated fresher with 2 years of hands-on experience in developing responsive web applications. Possesses a strong foundation in Data Structures and Algorithms, demonstrated through 3 completed projects and 200+ DSA questions across various platforms. Eager to contribute to innovative projects and grow in a dynamic development environment</p>
-                <button> <Link to="https://sapphire-alleen-15.tiiny.site">Go</Link> </button>
+                <button> <Link to="https://theonlineconverter.com/uploads/Vinayka_FlowCV_2025_1735310737530.html">Go</Link> </button>
             </motion.div>
 
      
